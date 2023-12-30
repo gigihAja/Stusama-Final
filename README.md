@@ -1,6 +1,9 @@
-# tugas_rancang
+# Stusama Final
 
-A new Flutter project.
+Flutter project for MADE final.
+Group members:
+- Gigih Dharmawan
+- Raymond Kesuma
 
 ## Getting Started
 
